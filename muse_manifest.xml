@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493241186518">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493247227773">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mallsida.css" crc="401447325" ref="bli-medlem:index:om-föreningen--kontakt:föreningsarbete:historia:länkar:försäkring:stadgar:skate-spots"/>
+    <file name="master_a-mallsida.css" crc="536400111" ref="bli-medlem:index:om-föreningen--kontakt:föreningsarbete:historia:länkar:försäkring:stadgar:skate-spots"/>
     <file name="bli-medlem.css" crc="6431301" ref="bli-medlem"/>
-    <file name="index.css" crc="314465074" ref="index"/>
+    <file name="index.css" crc="3936803475" ref="index"/>
     <file name="om-f_reningen--kontakt.css" crc="4266091591" ref="om-föreningen--kontakt"/>
     <file name="f_reningsarbete.css" crc="3805396879" ref="föreningsarbete"/>
-    <file name="historia.css" crc="462908297" ref="historia"/>
+    <file name="historia.css" crc="225195160" ref="historia"/>
     <file name="l_nkar.css" crc="168981003" ref="länkar"/>
     <file name="f_rs_kring.css" crc="225609176" ref="försäkring"/>
     <file name="stadgar.css" crc="225609176" ref="stadgar"/>
-    <file name="skate-spots.css" crc="4128876925" ref="skate-spots"/>
+    <file name="skate-spots.css" crc="4231038868" ref="skate-spots"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
@@ -32,37 +32,28 @@
       <caption webpage="bli-medlem" alt=""/>
     </file>
     <file name="nykoping_skateboard_logo_svart.png" crc="376663146" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia">
-      <caption webpage="index" alt=""/>
+      <caption webpage="bli-medlem" alt=""/>
       <caption webpage="om-föreningen--kontakt" alt=""/>
       <caption webpage="skate-spots" alt=""/>
-      <caption webpage="försäkring" alt=""/>
-      <caption webpage="länkar" alt=""/>
-      <caption webpage="bli-medlem" alt=""/>
-      <caption webpage="historia" alt=""/>
       <caption webpage="stadgar" alt=""/>
+      <caption webpage="länkar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="försäkring" alt=""/>
       <caption webpage="föreningsarbete" alt=""/>
     </file>
     <file name="facebook.png" crc="228432513" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia">
-      <caption webpage="index" alt=""/>
+      <caption webpage="bli-medlem" alt=""/>
       <caption webpage="om-föreningen--kontakt" alt=""/>
       <caption webpage="skate-spots" alt=""/>
-      <caption webpage="försäkring" alt=""/>
-      <caption webpage="länkar" alt=""/>
-      <caption webpage="bli-medlem" alt=""/>
-      <caption webpage="historia" alt=""/>
       <caption webpage="stadgar" alt=""/>
+      <caption webpage="länkar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="försäkring" alt=""/>
       <caption webpage="föreningsarbete" alt=""/>
     </file>
-    <file name="cactus.jpg" crc="491424337" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="road.jpg" crc="180693847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trees.jpg" crc="4071309946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="inklistrad-svg-245384x98.svg" crc="4213978667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -101,14 +92,53 @@
     <file name="dsc_0064co-crop-u1570.jpg" crc="4181508751" seo="true" ref="föreningsarbete">
       <caption webpage="föreningsarbete" alt=""/>
     </file>
+    <file name="bjoern_smith.jpg" crc="4161336078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andy_switch_backtail.jpg" crc="62279679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjoern_wallride.jpg" crc="161446864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tony_heelflip.jpg" crc="209892919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170323_123635.jpg" crc="4083889672" seo="true" ref="skate-spots">
+      <caption webpage="skate-spots" alt=""/>
+    </file>
+    <file name="20170326_174338.jpg" crc="3771286019" seo="true" ref="skate-spots">
+      <caption webpage="skate-spots" alt=""/>
+    </file>
+    <file name="andy_switch_backtail685x508.jpg" crc="3987147802" seo="true" ref="skate-spots">
+      <caption webpage="skate-spots" alt=""/>
+    </file>
+    <file name="nyge1_01-crop-u1911.jpg" crc="3925397630" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="nyge2_01.jpg" crc="242290374" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="nyge2_02.jpg" crc="3822634812" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="telia_01.jpg" crc="4282188036" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="slakthuset_02.jpg" crc="407731981" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="slakthuset_01.jpg" crc="203531157" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3952522476" seo="true" mt="1492979622259" redirect="true"/>
+  <file name="index.html" crc="14105034" seo="true" mt="1493244365480" redirect="true"/>
   <file name="om-föreningen--kontakt.html" crc="395606049" seo="true" mt="1489937887360" redirect="true"/>
   <file name="bli-medlem.html" crc="2747830" seo="true" mt="1493241160931" redirect="true"/>
-  <file name="skate-spots.html" crc="72520099" seo="true" mt="1489940466785" redirect="true"/>
+  <file name="skate-spots.html" crc="4144376083" seo="true" mt="1493246711650" redirect="true"/>
   <file name="länkar.html" crc="4243384756" seo="true" mt="1489937887360" redirect="true"/>
   <file name="försäkring.html" crc="4285098530" seo="true" mt="1489937887360" redirect="true"/>
   <file name="stadgar.html" crc="153533365" seo="true" mt="1489937887360" redirect="true"/>
   <file name="föreningsarbete.html" crc="3864630917" seo="true" mt="1489937887360" redirect="true"/>
-  <file name="historia.html" crc="437357884" seo="true" mt="1489938648567" redirect="true"/>
+  <file name="historia.html" crc="4123387938" seo="true" mt="1493246013958" redirect="true"/>
 </manifest>

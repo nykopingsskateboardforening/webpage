@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nysf.se/index.html</loc>
-    <lastmod>2017-04-23</lastmod>
+    <lastmod>2017-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,15 +12,6 @@
       <image:loc>http://nysf.se/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nysf.se/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nysf.se/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nysf.se/images/trees.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nysf.se/images/inklistrad-svg-245384x98.svg</image:loc>
     </image:image>
     <image:image>
@@ -28,6 +19,18 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/rityta%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/bjoern_smith.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/andy_switch_backtail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/bjoern_wallride.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/tony_heelflip.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -62,7 +65,7 @@
   </url>
   <url>
     <loc>http://nysf.se/skate-spots.html</loc>
-    <lastmod>2017-03-19</lastmod>
+    <lastmod>2017-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,6 +76,15 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/16991735_10154408432962897_5404510703209735832_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/20170323_123635.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/20170326_174338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/andy_switch_backtail685x508.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -143,7 +155,7 @@
   </url>
   <url>
     <loc>http://nysf.se/historia.html</loc>
-    <lastmod>2017-03-19</lastmod>
+    <lastmod>2017-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -151,6 +163,24 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/nyge1_01-crop-u1911.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/nyge2_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/nyge2_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/telia_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/slakthuset_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/slakthuset_01.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
