@@ -140,6 +140,9 @@
     <image:image>
       <image:loc>http://nysf.se/images/facebook.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/nysf%20logo%20svart.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6reningsarbete.html</loc>
