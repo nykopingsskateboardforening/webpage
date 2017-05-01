@@ -1,58 +1,61 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493649564952">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493652971121">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mallsida.css" crc="4203564511" ref="bli-medlem:index:om-föreningen--kontakt:föreningsarbete:historia:länkar:försäkring:stadgar:skate-spots"/>
-    <file name="bli-medlem.css" crc="3777237805" ref="bli-medlem"/>
-    <file name="index.css" crc="3800833433" ref="index"/>
-    <file name="om-f_reningen--kontakt.css" crc="501407851" ref="om-föreningen--kontakt"/>
-    <file name="f_reningsarbete.css" crc="3953926168" ref="föreningsarbete"/>
-    <file name="historia.css" crc="85871896" ref="historia"/>
-    <file name="l_nkar.css" crc="3780620744" ref="länkar"/>
-    <file name="f_rs_kring.css" crc="3901294384" ref="försäkring"/>
-    <file name="stadgar.css" crc="382178138" ref="stadgar"/>
-    <file name="skate-spots.css" crc="392650020" ref="skate-spots"/>
+    <file name="master_a-mallsida.css" crc="359047744" ref="bli-medlem:index:om-föreningen--kontakt:föreningsarbete:historia:länkar:försäkring:stadgar:skate-spots:nysf-i-media"/>
+    <file name="bli-medlem.css" crc="4055856761" ref="bli-medlem"/>
+    <file name="index.css" crc="3766635991" ref="index"/>
+    <file name="om-f_reningen--kontakt.css" crc="116406511" ref="om-föreningen--kontakt"/>
+    <file name="f_reningsarbete.css" crc="3801927590" ref="föreningsarbete"/>
+    <file name="historia.css" crc="4019243559" ref="historia"/>
+    <file name="l_nkar.css" crc="152436241" ref="länkar"/>
+    <file name="f_rs_kring.css" crc="4134614166" ref="försäkring"/>
+    <file name="stadgar.css" crc="320179306" ref="stadgar"/>
+    <file name="skate-spots.css" crc="212294997" ref="skate-spots"/>
+    <file name="nysf-i-media.css" crc="238982634" ref="nysf-i-media"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="museutils.js" crc="4232573551" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="whatinput.js" crc="86476730" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="museutils.js" crc="4232573551" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="whatinput.js" crc="86476730" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
-    <file name="require.js" crc="4234670167" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
+    <file name="require.js" crc="4234670167" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="index:bli-medlem:stadgar">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="bli-medlem" alt=""/>
       <caption webpage="stadgar" alt=""/>
     </file>
-    <file name="nykoping_skateboard_logo_svart.png" crc="376663146" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia">
-      <caption webpage="historia" alt=""/>
-      <caption webpage="skate-spots" alt=""/>
+    <file name="nykoping_skateboard_logo_svart.png" crc="376663146" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bli-medlem" alt=""/>
+      <caption webpage="nysf-i-media" alt=""/>
       <caption webpage="försäkring" alt=""/>
       <caption webpage="om-föreningen--kontakt" alt=""/>
-      <caption webpage="föreningsarbete" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="stadgar" alt=""/>
-      <caption webpage="bli-medlem" alt=""/>
+      <caption webpage="föreningsarbete" alt=""/>
       <caption webpage="länkar" alt=""/>
+      <caption webpage="skate-spots" alt=""/>
+      <caption webpage="historia" alt=""/>
     </file>
-    <file name="facebook.png" crc="228432513" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia">
-      <caption webpage="historia" alt=""/>
-      <caption webpage="skate-spots" alt=""/>
+    <file name="facebook.png" crc="228432513" seo="true" ref="index:om-föreningen--kontakt:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bli-medlem" alt=""/>
+      <caption webpage="nysf-i-media" alt=""/>
       <caption webpage="försäkring" alt=""/>
       <caption webpage="om-föreningen--kontakt" alt=""/>
-      <caption webpage="föreningsarbete" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="stadgar" alt=""/>
-      <caption webpage="bli-medlem" alt=""/>
+      <caption webpage="föreningsarbete" alt=""/>
       <caption webpage="länkar" alt=""/>
+      <caption webpage="skate-spots" alt=""/>
+      <caption webpage="historia" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -135,14 +138,18 @@
     <file name="dsc_0064co-crop-u2068.jpg" crc="4181508751" seo="true" ref="föreningsarbete">
       <caption webpage="föreningsarbete" alt=""/>
     </file>
+    <file name="skärmavbild 2017-05-01 kl 172905.jpg" crc="3807942550" seo="true" ref="nysf-i-media">
+      <caption webpage="nysf-i-media" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="95777368" seo="true" mt="1493646176229" redirect="true"/>
-  <file name="om-föreningen--kontakt.html" crc="269707990" seo="true" mt="1493647977320" redirect="true"/>
-  <file name="bli-medlem.html" crc="471642735" seo="true" mt="1493648933267" redirect="true"/>
-  <file name="skate-spots.html" crc="3761952057" seo="true" mt="1493315920380" redirect="true"/>
-  <file name="länkar.html" crc="27710156" seo="true" mt="1493248498155" redirect="true"/>
-  <file name="försäkring.html" crc="3850936352" seo="true" mt="1493248498155" redirect="true"/>
-  <file name="stadgar.html" crc="4196609823" seo="true" mt="1493649525074" redirect="true"/>
-  <file name="föreningsarbete.html" crc="3864605459" seo="true" mt="1493646204961" redirect="true"/>
-  <file name="historia.html" crc="4136199692" seo="true" mt="1493248498155" redirect="true"/>
+  <file name="index.html" crc="4202409525" seo="true" mt="1493652156957" redirect="true"/>
+  <file name="om-föreningen--kontakt.html" crc="32801650" seo="true" mt="1493652220368" redirect="true"/>
+  <file name="bli-medlem.html" crc="529542080" seo="true" mt="1493652179409" redirect="true"/>
+  <file name="skate-spots.html" crc="4254730083" seo="true" mt="1493650939118" redirect="true"/>
+  <file name="länkar.html" crc="66094055" seo="true" mt="1493650939118" redirect="true"/>
+  <file name="försäkring.html" crc="84943895" seo="true" mt="1493650939118" redirect="true"/>
+  <file name="stadgar.html" crc="4110992444" seo="true" mt="1493650939118" redirect="true"/>
+  <file name="föreningsarbete.html" crc="4165977820" seo="true" mt="1493652247335" redirect="true"/>
+  <file name="historia.html" crc="258316002" seo="true" mt="1493650939118" redirect="true"/>
+  <file name="nysf-i-media.html" crc="4073874061" seo="true" mt="1493652876576" redirect="true"/>
 </manifest>

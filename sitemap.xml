@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://nysf.se/skate-spots.html</loc>
-    <lastmod>2017-04-27</lastmod>
+    <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>http://nysf.se/l%C3%A4nkar.html</loc>
-    <lastmod>2017-04-27</lastmod>
+    <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6rs%C3%A4kring.html</loc>
-    <lastmod>2017-04-27</lastmod>
+    <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>http://nysf.se/historia.html</loc>
-    <lastmod>2017-04-27</lastmod>
+    <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -184,6 +184,21 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/slakthuset_01.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nysf.se/nysf-i-media.html</loc>
+    <lastmod>2017-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nysf.se/images/nykoping_skateboard_logo_svart.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/sk%C3%A4rmavbild%202017-05-01%20kl%20172905.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
