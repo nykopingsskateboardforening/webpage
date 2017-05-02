@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493712696038">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nysf.se" resolutions="1x" timestamp="1493715602960">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-mallsida.css" crc="4147922841" ref="bli-medlem:index:föreningsarbete:historia:länkar:försäkring:stadgar:skate-spots:nysf-i-media:om-föreningen"/>
@@ -11,7 +11,7 @@
     <file name="stadgar.css" crc="195963328" ref="stadgar"/>
     <file name="skate-spots.css" crc="110683569" ref="skate-spots"/>
     <file name="nysf-i-media.css" crc="114362888" ref="nysf-i-media"/>
-    <file name="om-f_reningen.css" crc="4036901465" ref="om-föreningen"/>
+    <file name="om-f_reningen.css" crc="4100123080" ref="om-föreningen"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media:om-föreningen"/>
@@ -28,38 +28,39 @@
     <file name="require.js" crc="4234670167" ref="index:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media:om-föreningen"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:om-föreningen">
       <caption webpage="index" alt=""/>
       <caption webpage="skate-spots" alt=""/>
+      <caption webpage="om-föreningen" alt=""/>
       <caption webpage="bli-medlem" alt=""/>
       <caption webpage="om-föreningen--kontakt" alt=""/>
       <caption webpage="stadgar" alt=""/>
     </file>
     <file name="nykoping_skateboard_logo_svart.png" crc="376663146" seo="true" ref="index:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media:om-föreningen">
       <caption webpage="nysf-i-media" alt=""/>
-      <caption webpage="skate-spots" alt=""/>
+      <caption webpage="om-föreningen" alt=""/>
       <caption webpage="länkar" alt=""/>
-      <caption webpage="om-föreningen--kontakt" alt=""/>
-      <caption webpage="föreningsarbete" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="försäkring" alt=""/>
+      <caption webpage="stadgar" alt=""/>
+      <caption webpage="om-föreningen--kontakt" alt=""/>
+      <caption webpage="skate-spots" alt=""/>
       <caption webpage="historia" alt=""/>
       <caption webpage="bli-medlem" alt=""/>
-      <caption webpage="om-föreningen" alt=""/>
-      <caption webpage="stadgar" alt=""/>
+      <caption webpage="försäkring" alt=""/>
+      <caption webpage="föreningsarbete" alt=""/>
     </file>
     <file name="facebook.png" crc="228432513" seo="true" ref="index:bli-medlem:skate-spots:länkar:försäkring:stadgar:föreningsarbete:historia:nysf-i-media:om-föreningen">
       <caption webpage="nysf-i-media" alt=""/>
-      <caption webpage="skate-spots" alt=""/>
+      <caption webpage="om-föreningen" alt=""/>
       <caption webpage="länkar" alt=""/>
-      <caption webpage="om-föreningen--kontakt" alt=""/>
-      <caption webpage="föreningsarbete" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="försäkring" alt=""/>
+      <caption webpage="stadgar" alt=""/>
+      <caption webpage="om-föreningen--kontakt" alt=""/>
+      <caption webpage="skate-spots" alt=""/>
       <caption webpage="historia" alt=""/>
       <caption webpage="bli-medlem" alt=""/>
-      <caption webpage="om-föreningen" alt=""/>
-      <caption webpage="stadgar" alt=""/>
+      <caption webpage="försäkring" alt=""/>
+      <caption webpage="föreningsarbete" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -152,6 +153,9 @@
     <file name="dsc_0064co-crop-u885.jpg" crc="4181508751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="om du vill bidra med att främja skateboard.png" crc="4025948501" seo="true" ref="om-föreningen">
+      <caption webpage="om-föreningen" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="246581775" seo="true" mt="1493712619460" redirect="true"/>
   <file name="bli-medlem.html" crc="137105906" seo="true" mt="1493712619460" redirect="true"/>
@@ -162,5 +166,5 @@
   <file name="föreningsarbete.html" crc="3931406268" seo="true" mt="1493712619460" redirect="true"/>
   <file name="historia.html" crc="4024099555" seo="true" mt="1493712619460" redirect="true"/>
   <file name="nysf-i-media.html" crc="3801085186" seo="true" mt="1493712619460" redirect="true"/>
-  <file name="om-föreningen.html" crc="3865506060" seo="true" mt="1493712619460" redirect="true"/>
+  <file name="om-föreningen.html" crc="4005566464" seo="true" mt="1493715584095" redirect="true"/>
 </manifest>
