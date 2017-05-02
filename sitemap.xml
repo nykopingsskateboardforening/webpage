@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nysf.se/index.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,10 +15,10 @@
       <image:loc>http://nysf.se/images/inklistrad-svg-245384x98.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nysf.se/images/dsc_0064co-crop-u885.jpg</image:loc>
+      <image:loc>http://nysf.se/images/rityta%201.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nysf.se/images/rityta%201.png</image:loc>
+      <image:loc>http://nysf.se/images/bli%20medlem%20gratis%20redigeringsbar%20text.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/bjoern_smith.jpg</image:loc>
@@ -33,27 +33,12 @@
       <image:loc>http://nysf.se/images/tony_heelflip.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nysf.se/images/bli%20medlem%20gratis%20redigeringsbar%20text.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nysf.se/om-f%C3%B6reningen--kontakt.html</loc>
-    <lastmod>2017-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nysf.se/images/nykoping_skateboard_logo_svart.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nysf.se/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nysf.se/images/dsc_0069co-crop-u1400.jpg</image:loc>
+      <image:loc>http://nysf.se/images/dsc_0064co-crop-u885.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nysf.se/bli-medlem.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,7 +53,7 @@
   </url>
   <url>
     <loc>http://nysf.se/skate-spots.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +80,7 @@
   </url>
   <url>
     <loc>http://nysf.se/l%C3%A4nkar.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +107,7 @@
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6rs%C3%A4kring.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +119,7 @@
   </url>
   <url>
     <loc>http://nysf.se/stadgar.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,7 +134,7 @@
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6reningsarbete.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,7 +149,7 @@
   </url>
   <url>
     <loc>http://nysf.se/historia.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,7 +179,7 @@
   </url>
   <url>
     <loc>http://nysf.se/nysf-i-media.html</loc>
-    <lastmod>2017-05-01</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -205,6 +190,21 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/sk%C3%A4rmavbild%202017-05-01%20kl%20172905.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nysf.se/om-f%C3%B6reningen.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nysf.se/images/nykoping_skateboard_logo_svart.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/dsc_0069co-crop-u1400.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
