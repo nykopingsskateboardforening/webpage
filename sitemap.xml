@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nysf.se/index.html</loc>
-    <lastmod>2017-05-05</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,9 +13,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/inklistrad-svg-245384x98.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nysf.se/images/rityta%201.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nysf.se/images/bli%20medlem%20gratis%20redigeringsbar%20text.png</image:loc>
@@ -38,10 +35,13 @@
     <image:image>
       <image:loc>http://nysf.se/images/sk%C3%A4rmavbild%202017-05-05%20kl%20224621.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nysf.se/images/nysf%20logo%20vit.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nysf.se/bli-medlem.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>http://nysf.se/skate-spots.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>http://nysf.se/l%C3%A4nkar.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6rs%C3%A4kring.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>http://nysf.se/stadgar.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +137,7 @@
   </url>
   <url>
     <loc>http://nysf.se/f%C3%B6reningsarbete.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -152,7 +152,7 @@
   </url>
   <url>
     <loc>http://nysf.se/historia.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>http://nysf.se/nysf-i-media.html</loc>
-    <lastmod>2017-05-05</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>http://nysf.se/om-f%C3%B6reningen.html</loc>
-    <lastmod>2017-05-03</lastmod>
+    <lastmod>2017-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
